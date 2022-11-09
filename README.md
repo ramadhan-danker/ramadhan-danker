@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramadhan01)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhan01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
