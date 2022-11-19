@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi Bang 👋
 
-<!--
-**ramadhan-danker/ramadhan-danker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- **ramadhan-danker/ramadhan-danker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramadhan01&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
