@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?ramadhan01=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramadhan01)](https://github.com/anuraghazra/github-readme-stats)
 
